@@ -1,3 +1,5 @@
 This is a second file, edited from Github
 
-Now I'm adding an edit from the computer 
+Now I'm adding an edit from the computer
+
+Now I'm adding a third line from the computer
