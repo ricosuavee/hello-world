@@ -1,3 +1,6 @@
 This is a test file for hello-world from local computer
 
+
+Here's a line I inserted in the middle
+
 Here's a new line
